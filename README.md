@@ -34,7 +34,7 @@
 
 ## 🏛️ Members
 
-- **노명은**
+- [**노명은**](https://github.com/NoMyeongEun?tab=repositories)
 - **홍민혁**
 - **서지은**
 
